@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-**Age:** 19  
-**Location:** Moscow, Russian Federation  
-**Specializations:** Golang Back-End Developer · Embedded Systems Software Engineer  
+** Nick, 19 Age, Moscow, Russian Federation**  
+** Golang Back-End Developer · Embedded Systems Software Engineer**  
+
 
 ## 💼 Work:
 Scientific Research Institute of Rostech Corporation 
@@ -18,17 +18,6 @@ September 2024 - now
 - React, CSS, HTML, JavaScript 
 
 
-## 📚 Learning:
-- Web application architecture in Golang  
-- CI/CD and deployment automation  
-- Microservice performance optimization
-- Embedded IoT systems
-- Frontend development with React  
-
-
-
-## 📊 GitHub Statistics:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosk0l&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
 
 
