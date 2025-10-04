@@ -1,9 +1,9 @@
-## 💼 Work:
+## Work:
 - Scientific Research Institute of Rostech Corporation 
 - backend developer
 - September 2024 - now
 
-##
+## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
 
 ## BackEnd
