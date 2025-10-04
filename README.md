@@ -12,12 +12,25 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
 
-## 🎓 Education:
-1. **Samsung Innovation Campus — Kotlin Mobile Development (2025)**
-2. **Samsung Innovation Campus — Internet of Things (2026)**
+### UI
 
-## 🎓 University:
-- RTU MIREA [Moscow, Russian Federation]
-- Institute of Information Tehnology
-- Software Engineer in Microprocessor Systems
-- 2024-2028
+<img
+    alt="HTML"
+    title="HTML"
+    src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"
+/>
+<img
+    alt="CSS"
+    title="CSS"
+    src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"
+/>
+<img
+    alt="JS"
+    title="JS"
+    src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117"
+/>
+<img
+    alt="React"
+    title="React"
+    src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117"
+/>
