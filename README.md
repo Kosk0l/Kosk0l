@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
 
 ## BackEnd
-
+<p align="left">
 <img alt="Go" title="Go" src="https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="C++" title="C++" src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Kotlin" title="Kotlin" src="https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -24,7 +24,7 @@
 <img alt="VSCode" title="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJIDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img alt="Git" title="Git" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117"/>
-
+</p>
 ## UI
 
 <img
