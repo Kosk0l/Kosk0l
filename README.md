@@ -5,9 +5,9 @@
 **Specializations:** Golang Back-End Developer · Embedded Systems Software Engineer  
 
 ## 💼 Work:
-# Scientific Research Institute of Rostech Corporation 
-# backend developer
-# September 2024 - now
+Scientific Research Institute of Rostech Corporation 
+backend developer
+September 2024 - now
 
 
 ## 🛠️ Tech Stack:
@@ -43,7 +43,7 @@
 
 
 ## 🎓 University:
-# RTU MIREA [Moscow, Russian Federation]
-# Institute of Information Tehnology
-# Software Engineer in Microprocessor Systems
-# 2024-2028
+RTU MIREA [Moscow, Russian Federation]
+Institute of Information Tehnology
+Software Engineer in Microprocessor Systems
+2024-2028
