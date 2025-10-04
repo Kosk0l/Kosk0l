@@ -5,9 +5,9 @@
 **Specializations:** Golang Back-End Developer · Embedded Systems Software Engineer  
 
 ## 💼 Work:
-> Scientific Research Institute of Rostech Corporation 
-> backend developer
-> September 2024 - now
+# Scientific Research Institute of Rostech Corporation 
+# backend developer
+# September 2024 - now
 
 
 ## 🛠️ Tech Stack:
@@ -28,8 +28,8 @@
 
 
 ## 📊 GitHub Statistics:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosk0l&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kosk0l&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
 
 
 ## 📫 Contacts
@@ -43,7 +43,7 @@
 
 
 ## 🎓 University:
-> RTU MIREA [Moscow, Russian Federation]
-> Institute of Information Tehnology
-> Software Engineer in Microprocessor Systems
-> 2024-2028
+# RTU MIREA [Moscow, Russian Federation]
+# Institute of Information Tehnology
+# Software Engineer in Microprocessor Systems
+# 2024-2028
