@@ -3,6 +3,7 @@
 - backend developer
 - September 2024 - now
 
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
 
 ## BackEnd
