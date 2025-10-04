@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-** Nick, 19 Age, Moscow, Russian Federation**  
-** Golang Back-End Developer · Embedded Systems Software Engineer**  
-
-
 ## 💼 Work:
 Scientific Research Institute of Rostech Corporation 
 backend developer
@@ -19,11 +15,6 @@ September 2024 - now
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
-
-
-## 📫 Contacts
-- **Telegram:** [@kosk0l](https://t.me/kosk0l)  
-- **Email:** koskol006@gmail.com
 
 
 ## 🎓 Education:
