@@ -3,10 +3,10 @@
 - backend developer
 - September 2024 - now
 
-## Stats
+## Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
 
-## BackEnd
+## BackEnd:
 <p align="left">
 <img alt="Go" title="Go" src="https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="C++" title="C++" src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -28,7 +28,7 @@
 <img alt="Git" title="Git" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117"/>
 </p>
 
-## UI
+## UI:
 
 <img
     alt="HTML"
