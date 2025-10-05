@@ -5,7 +5,7 @@
 
 ## Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
-<p align="center">
+<p>
   <img src="https://media1.tenor.com/m/xj9g0scvBBsAAAAC/dedsec.gif" width="200" alt="coding"/>
 </p>
 ## BackEnd:
