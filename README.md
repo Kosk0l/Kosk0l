@@ -5,7 +5,7 @@
 
 ## Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosk0l&layout=compact&theme=dark)
-
+![Gif](https://media1.tenor.com/m/xj9g0scvBBsAAAAC/dedsec.gif)
 ## BackEnd:
 <p align="left">
 <img alt="Go" title="Go" src="https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=white"/>
